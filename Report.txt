@@ -1,0 +1,5 @@
+1.anomalous electron thermal transport is the dominant effect
+2.beam waist radius scattering angle k_theta \rhos(10 40)
+3.LO reference in High k 
+$ekonal equation
+IP=7MA,ne_limt=ip/pi^2/a^2
